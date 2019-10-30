@@ -1,0 +1,15 @@
+https://labs.opentlc.com/service/explorerOPENSHIFT
+CONTAINER PLATFORM
+
+-conectar na vm
+
+ ssh -i ~/.ssh/id_rsa wilson.queiroz-fabricads.com.br@bastion.5dc8.example.opentlc.com
+
+-conectar dentro da vm no oc(Openshift client)
+
+  oc login -u user
+  server: https://api.cluster-7435.7435.example.opentlc.com:6443
+  passwd: r3dh4t1!
+
+
+https://bit.ly/33kfnIL
